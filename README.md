@@ -6,7 +6,7 @@
 <img src='adse_cover.png' >
 
 ## Analysis Factors 
-- Youth employment
+- Youth Employment
 - Gender & Age Equality
 - SMART Economy
 
