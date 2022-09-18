@@ -1,6 +1,6 @@
 # Asean's Decent Work and Economic Growth Analytics 
 - Analysed Asean's Decent Work and Economic Growth using SAP, focusing on Youth Unemployment and SMART Economy. 
-- Analysed the current issues from datasets Asean wide and provided recommendations for improvement
+- Analysed the current issues from datasets Asean wide and provided recommendations for improvement.
 - Completed as part of 2022 Asean Data Science Explorers. 
 
 <img src='adse_cover.png' >
